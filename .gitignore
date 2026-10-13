@@ -1,0 +1,16 @@
+# Compiled Java class files / build output
+out/
+bin/
+build/
+*.class
+
+# Logs and temp files
+*.log
+*.tmp
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
